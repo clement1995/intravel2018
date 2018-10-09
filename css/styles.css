@@ -1,0 +1,98 @@
+h2 {
+    font-size: 22px;
+    margin-bottom: 25px;
+    color: black;
+}
+
+
+#sliderimage_1 {
+    width: 100%;
+    position: absolute;   
+}
+
+#nav-color {
+    background: #a40000;
+    width: 100%;
+}
+
+#logo-image {
+    width: 50px; 
+}
+
+#banner {
+    width: 100%;
+    height: 692px;
+    margin-bottom: 40px;
+}
+
+#citybanner {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 40px;
+}
+
+#welcomemsg {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    top: 13%;
+    left: 9%;
+    padding: 35px;
+    width: 500px;
+}
+
+.contain {
+    width: 100%;
+}
+
+#welcomemsgdestination {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    top: 15%;
+    padding: 35px;
+}
+
+
+#msg {
+    margin-bottom: 100px;
+}
+
+.option {
+    padding: 25px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+#title_1 {
+    margin-bottom: 10px;
+    font-size: 26px;
+}
+
+#p1 {
+    margin-bottom: 55px;
+}
+
+#title_2 {
+    margin-bottom: 10px;
+    font-size: 26px;
+}
+
+#title_3 {
+    margin-bottom: 10px;
+    font-size: 26px;
+}
+
+#cities {
+    margin-bottom: 70px;
+}
+
+#attractions {
+    margin-bottom: 65px;
+}
+
+#events {
+    margin-bottom: 70px;
+}
+
+.attraction {
+    width: 300px;
+}
